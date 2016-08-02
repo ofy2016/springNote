@@ -1,2 +1,2 @@
-# 20160728SpringMVC
+# spring study notes
 this is a simple spring demo for study
